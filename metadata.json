@@ -1,0 +1,6 @@
+{
+  "name": "Image Puzzles",
+  "description": "An offline image puzzle app featuring Jigsaw, Sliding Block, and mapped Rubik's Cube modes with customizable images and haptic feedback.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
