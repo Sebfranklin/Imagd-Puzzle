@@ -28,7 +28,7 @@ jobs:
         uses: gradle/actions/setup-gradle@v4
 
       - name: Generate Gradle Wrapper
-        run: gradle wrapper --gradle-version=8.12
+        run: gradle wrapper --gradle-version=9.3.1
 
       - name: Copy env file for build
         run: cp .env.example .env
